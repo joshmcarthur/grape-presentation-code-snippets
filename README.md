@@ -1,4 +1,4 @@
-This repo contains a series of scripts written in support of my 15 minute Lightning talk on Grape (slides will be published here next week).
+This repo contains a series of scripts written in support of my 15 minute Lightning talk on Grape ([slides](https://docs.google.com/presentation/d/1aWj5tKVzxqXuX1SC7tKtFx--FeLe4gx483ygns5c9ys/edit?usp=sharing)).
 
 These scripts should not be considered best-practice, in fact they are little more than a scratch-pad used to try out different ideas.
 
